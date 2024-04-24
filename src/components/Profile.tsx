@@ -40,7 +40,7 @@ const Profile: React.FC = () => {
               Sivasubramanian Ramiah
             </b>{" "}
           </span>{" "}
-          , focusing on creating web/app applications
+          focusing on creating web/app applications
         </p>
       </div>
       <div className="sm:flex justify-center gap-[10px] text-center text-[#1b0e64] p-[10px]">
