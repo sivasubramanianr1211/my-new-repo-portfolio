@@ -24,7 +24,7 @@ const Profile: React.FC = () => {
       </div>
       <div className="text-center mt-[5px] text-[#1b0e64] p-[10px]">
         <p className="text-[18px] mb-[5px]">
-          Senior Software Engineer - Full Stack Development
+          Senior Software Engineer - Front End Development
         </p>
         <p className="text-[18px]">
           Hi,{" "}

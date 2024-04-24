@@ -11,7 +11,7 @@ const Description: React.FC = () => {
         React.js, I specialize in cutting-edge front-end technologies.
         I'm dedicated to crafting visually stunning and responsive web
         experiences, showcasing precision, innovation, and staying ahead in the
-        dynamic realm of front-end web development. Explore to discover the
+        dynamic realm of full-stack web development. Explore to discover the
         essence of my React.js expertise.
       </p>
     </section>
