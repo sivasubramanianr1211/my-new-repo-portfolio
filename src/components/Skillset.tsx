@@ -4,20 +4,16 @@ import React from "react";
 
 const Skillset: React.FC = () => {
   const skillSetData: string[] = [
-    "Core Java",
-    "JSP",
-    "Servlet",
-    "JPA",
-    "Java Beans",
-    "Spring Boot",
     "React Js",
     "Javascript",
     "Typescript",
+    "React Native",
     "HTML",
     "CSS",
+    "ES6",
     "Node Js",
+    "Express Js",
     "MySQL",
-    "MongoDB",
     "AWS amplify",
     "Github/lab",
   ];

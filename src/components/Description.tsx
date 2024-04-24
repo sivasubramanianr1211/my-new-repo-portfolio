@@ -8,11 +8,11 @@ const Description: React.FC = () => {
       <h2 className="text-[26px]">Description</h2>
       <p className="text-[20px] mt-[2px]">
         Welcome to my portfolio! With over 6 years of expertise in mastering
-        Java and React.js, I specialize in cutting-edge full-stack technologies.
+        React.js, I specialize in cutting-edge front-end technologies.
         I'm dedicated to crafting visually stunning and responsive web
         experiences, showcasing precision, innovation, and staying ahead in the
-        dynamic realm of full-stack web development. Explore to discover the
-        essence of my Java and React.js expertise.
+        dynamic realm of front-end web development. Explore to discover the
+        essence of my React.js expertise.
       </p>
     </section>
   );
